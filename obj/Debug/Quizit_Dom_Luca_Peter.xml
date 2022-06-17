@@ -1,0 +1,66 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Quizit_Dom_Luca_Peter
+</name>
+</assembly>
+<members>
+<member name="T:Quizit_Dom_Luca_Peter.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Quizit_Dom_Luca_Peter.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Quizit_Dom_Luca_Peter.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Quizit_Dom_Luca_Peter.My.Resources.Resources.Computing">
+<summary>
+  Looks up a localized string similar to .
+</summary>
+</member>
+<member name="P:Quizit_Dom_Luca_Peter.My.Resources.Resources.English">
+<summary>
+  Looks up a localized string similar to .
+</summary>
+</member>
+<member name="P:Quizit_Dom_Luca_Peter.My.Resources.Resources.Geography">
+<summary>
+  Looks up a localized string similar to .
+</summary>
+</member>
+<member name="P:Quizit_Dom_Luca_Peter.My.Resources.Resources.History">
+<summary>
+  Looks up a localized string similar to .
+</summary>
+</member>
+<member name="P:Quizit_Dom_Luca_Peter.My.Resources.Resources.Maths">
+<summary>
+  Looks up a localized string similar to .
+</summary>
+</member>
+<member name="P:Quizit_Dom_Luca_Peter.My.Resources.Resources.NotInteractable">
+<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:Quizit_Dom_Luca_Peter.My.Resources.Resources.PlayerHit">
+<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:Quizit_Dom_Luca_Peter.My.Resources.Resources.Science">
+<summary>
+  Looks up a localized string similar to .
+</summary>
+</member>
+</members>
+</doc>
